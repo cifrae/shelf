@@ -8,12 +8,10 @@ collection of research papers
 - Felleman et al (1991); Distributed hierarchical processing in the primate cerebral cortex
 - Modha et al (2011); Cognitive computing, Communications of the ACM
 - Mountcastle (1978); An organizing principle for cerebral function: the unit model
-- Rao et al (1999); Predictive coding in the visual cortex: a functional interpretation
 - Young (1993); The organization of neural systems in the primate cerebral cortex
 
 ## dendrites
 - Poirazi et al (2001); Impact of active dendrites and structural plasticity on the memory
-- London et al (2005); Dendritic computation
 - Magee (2000); Dendritic integration of excitatory synaptic input
 
 ## thalamus
