@@ -6,7 +6,6 @@ collection of research papers
 ## cortex
 - Creutzfeldt (1977); Generality of the functional structure of the neocortex
 - Felleman et al (1991); Distributed hierarchical processing in the primate cerebral cortex
-- Modha et al (2011); Cognitive computing, Communications of the ACM
 - Mountcastle (1978); An organizing principle for cerebral function: the unit model
 - Young (1993); The organization of neural systems in the primate cerebral cortex
 
